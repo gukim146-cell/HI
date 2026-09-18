@@ -1,0 +1,6 @@
+{
+  "name": "Todo List",
+  "description": "Pixel Art & 8-bit Retro Arcade 감성의 Todo List 웹 애플리케이션",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
